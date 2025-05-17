@@ -20,7 +20,7 @@ API-route `/api/updates` processes:
 ### 1. Clone repository
 
 ```bash
-git clone <ваш-репозиторий-url>
+git clone https://github.com/OlenaBoichenko/Test_project_useHireUp.git
 cd nextjs-prisma-app
 ```
 
